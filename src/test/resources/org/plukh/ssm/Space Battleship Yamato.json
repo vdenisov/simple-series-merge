@@ -1,0 +1,109 @@
+{
+  "attachments": [],
+  "chapters": [],
+  "container": {
+    "properties": {
+      "container_type": 17,
+      "date_local": "2014-11-14T14:43:55+03:00",
+      "date_utc": "2014-11-14T11:43:55Z",
+      "duration": 1506560000000,
+      "is_providing_timestamps": true,
+      "muxing_application": "libebml v1.3.0 + libmatroska v1.4.1",
+      "segment_uid": "84ae1746aad989448d5a0a1cd4f2a2ac",
+      "title": "LE-Production",
+      "writing_application": "mkvmerge v7.3.0 ('Nouages') 64bit built on Oct 22 2014 18:53:34"
+    },
+    "recognized": true,
+    "supported": true,
+    "type": "Matroska"
+  },
+  "errors": [],
+  "file_name": "[LE-Production]_Uchuu_Senkan_Yamato_[TV]_[BDRip]_[01]_[rus_jap_sub]_[960x720_x264]_[loster01].mkv",
+  "global_tags": [],
+  "identification_format_version": 11,
+  "track_tags": [],
+  "tracks": [
+    {
+      "codec": "MPEG-4p10/AVC/h.264",
+      "id": 0,
+      "properties": {
+        "codec_id": "V_MPEG4/ISO/AVC",
+        "codec_private_data": "0164001fffe100186764001facd940f016ec04400065d3c01312d023c60c658001000568ef82bcb0",
+        "codec_private_length": 40,
+        "default_duration": 41708333,
+        "default_track": true,
+        "display_dimensions": "960x720",
+        "display_unit": 0,
+        "enabled_track": true,
+        "forced_track": false,
+        "language": "jpn",
+        "minimum_timestamp": 0,
+        "number": 1,
+        "packetizer": "mpeg4_p10_video",
+        "pixel_dimensions": "960x720",
+        "track_name": "LE-Production",
+        "uid": 17884730528034299803
+      },
+      "type": "video"
+    },
+    {
+      "codec": "AC-3",
+      "id": 1,
+      "properties": {
+        "audio_channels": 2,
+        "audio_sampling_frequency": 48000,
+        "codec_id": "A_AC3",
+        "codec_private_length": 0,
+        "default_duration": 32000000,
+        "default_track": true,
+        "enabled_track": true,
+        "forced_track": false,
+        "language": "rus",
+        "minimum_timestamp": 0,
+        "number": 2,
+        "track_name": "loster01 (LE-Production)",
+        "uid": 9291196322505419654
+      },
+      "type": "audio"
+    },
+    {
+      "codec": "AC-3",
+      "id": 2,
+      "properties": {
+        "audio_channels": 2,
+        "audio_sampling_frequency": 48000,
+        "codec_id": "A_AC3",
+        "codec_private_length": 0,
+        "default_duration": 32000000,
+        "default_track": false,
+        "enabled_track": true,
+        "forced_track": false,
+        "language": "jpn",
+        "minimum_timestamp": 0,
+        "number": 3,
+        "uid": 12245966333071655090
+      },
+      "type": "audio"
+    },
+    {
+      "codec": "SubRip/SRT",
+      "id": 3,
+      "properties": {
+        "codec_id": "S_TEXT/UTF8",
+        "codec_private_length": 0,
+        "default_track": false,
+        "enabled_track": true,
+        "encoding": "UTF-8",
+        "forced_track": false,
+        "language": "rus",
+        "minimum_timestamp": 2240000000,
+        "number": 4,
+        "text_subtitles": true,
+        "track_name": "Targon",
+        "uid": 11650628380034886591
+      },
+      "type": "subtitles"
+    }
+  ],
+  "warnings": []
+}

@@ -1,0 +1,108 @@
+{
+  "attachments": [],
+  "chapters": [],
+  "container": {
+    "properties": {
+      "container_type": 17,
+      "date_local": "2010-10-24T14:09:04+03:00",
+      "date_utc": "2010-10-24T11:09:04Z",
+      "duration": 6955968000000,
+      "is_providing_timestamps": true,
+      "muxing_application": "libebml v0.7.7 + libmatroska v0.8.1",
+      "segment_uid": "8a79be93fcc95b2dbc0487dfe5a6c26b",
+      "title": "2010 - Release for HDCLUB",
+      "writing_application": "mkvmerge v2.6.0 ('Kelly watch the Stars') built on Mar 24 2009 15:23:17"
+    },
+    "recognized": true,
+    "supported": true,
+    "type": "Matroska"
+  },
+  "errors": [],
+  "file_name": "2010 (1984).mkv",
+  "global_tags": [],
+  "identification_format_version": 11,
+  "track_tags": [],
+  "tracks": [
+    {
+      "codec": "MPEG-4p10/AVC/h.264",
+      "id": 0,
+      "properties": {
+        "codec_id": "V_MPEG4/ISO/AVC",
+        "codec_private_data": "01640029ffe1001967640029ac34e28050045f9a10001974f004c4b408f18318a801008568eeb2ce5531cc305d2628d13080214868783a1c0d04e12142c0ac0da02fe10042ad35e9e850b748c778a1410088b172105449ca3050e204448b20a4d8a081827090809848541dc4290a43164215a201900cae8340f81e86f03300b6017002ac05981d61a07802a8400a902087404700bc010506e036404b811805902e07203e0087ff858b",
+        "codec_private_length": 169,
+        "default_duration": 41708398,
+        "default_track": true,
+        "display_dimensions": "640x267",
+        "display_unit": 0,
+        "enabled_track": true,
+        "forced_track": false,
+        "language": "eng",
+        "minimum_timestamp": 0,
+        "number": 1,
+        "packetizer": "mpeg4_p10_video",
+        "pixel_dimensions": "1280x534",
+        "track_name": "Release for HDCLUB",
+        "uid": 1
+      },
+      "type": "video"
+    },
+    {
+      "codec": "AC-3",
+      "id": 1,
+      "properties": {
+        "audio_channels": 6,
+        "audio_sampling_frequency": 48000,
+        "codec_id": "A_AC3",
+        "codec_private_length": 0,
+        "default_duration": 32000000,
+        "default_track": true,
+        "enabled_track": true,
+        "forced_track": false,
+        "language": "und",
+        "minimum_timestamp": 0,
+        "number": 2,
+        "track_name": "English AC3 5.1 @ 1536kbps",
+        "uid": 2557269162
+      },
+      "type": "audio"
+    },
+    {
+      "codec": "DTS",
+      "id": 2,
+      "properties": {
+        "audio_channels": 6,
+        "audio_sampling_frequency": 48000,
+        "codec_id": "A_DTS",
+        "codec_private_length": 0,
+        "default_track": false,
+        "enabled_track": true,
+        "forced_track": false,
+        "language": "eng",
+        "minimum_timestamp": 0,
+        "number": 3,
+        "track_name": "English DTS 5.1 @ 1536kbps",
+        "uid": 388704695
+      },
+      "type": "audio"
+    },
+    {
+      "codec": "SubRip/SRT",
+      "id": 3,
+      "properties": {
+        "codec_id": "S_TEXT/UTF8",
+        "codec_private_length": 0,
+        "default_track": true,
+        "enabled_track": true,
+        "encoding": "UTF-8",
+        "forced_track": false,
+        "language": "eng",
+        "number": 4,
+        "text_subtitles": true,
+        "track_name": "English",
+        "uid": 1319924370
+      },
+      "type": "subtitles"
+    }
+  ],
+  "warnings": []
+}

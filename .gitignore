@@ -1,0 +1,13 @@
+# Compiled source #
+###################
+target/
+
+# Intellij files and folders #
+#############################
+*.iml
+.idea/
+
+# Config files
+/ssm.properties
+/tasks.txt
+/episodes.txt

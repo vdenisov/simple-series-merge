@@ -1,0 +1,134 @@
+{
+  "attachments": [],
+  "chapters": [
+    {
+      "num_entries": 16
+    }
+  ],
+  "container": {
+    "properties": {
+      "container_type": 17,
+      "date_local": "2012-02-15T22:57:50+03:00",
+      "date_utc": "2012-02-15T19:57:50Z",
+      "duration": 4983169000000,
+      "is_providing_timestamps": true,
+      "muxing_application": "libebml v1.2.3 + libmatroska v1.3.0",
+      "segment_uid": "b91c4daf163e868bbd18bf9c00dc700b",
+      "title": "30 Minutes or Less (2011)",
+      "writing_application": "mkvmerge v5.2.1 ('A Far Off Place') built on Jan  2 2012 23:21:10"
+    },
+    "recognized": true,
+    "supported": true,
+    "type": "Matroska"
+  },
+  "errors": [],
+  "file_name": "30 Minutes or Less (2011).mkv",
+  "global_tags": [],
+  "identification_format_version": 11,
+  "track_tags": [],
+  "tracks": [
+    {
+      "codec": "MPEG-4p10/AVC/h.264",
+      "id": 0,
+      "properties": {
+        "codec_id": "V_MPEG4/ISO/AVC",
+        "codec_private_data": "01640029ffe1001867640029acc8601e0196c04400000fa40002ee023c60c66801000568e97b3c8f",
+        "codec_private_length": 40,
+        "content_encoding_algorithms": "3",
+        "default_duration": 41708332,
+        "default_track": true,
+        "display_dimensions": "1920x800",
+        "display_unit": 0,
+        "enabled_track": true,
+        "forced_track": false,
+        "language": "eng",
+        "minimum_timestamp": 0,
+        "number": 1,
+        "packetizer": "mpeg4_p10_video",
+        "pixel_dimensions": "1920x800",
+        "track_name": "30 Minutes or Less (2011)",
+        "uid": 1
+      },
+      "type": "video"
+    },
+    {
+      "codec": "DTS",
+      "id": 1,
+      "properties": {
+        "audio_channels": 6,
+        "audio_sampling_frequency": 48000,
+        "codec_id": "A_DTS",
+        "codec_private_length": 0,
+        "content_encoding_algorithms": "3",
+        "default_duration": 10666666,
+        "default_track": true,
+        "enabled_track": true,
+        "forced_track": false,
+        "language": "eng",
+        "minimum_timestamp": 0,
+        "number": 2,
+        "track_name": "English DTS",
+        "uid": 3563019439
+      },
+      "type": "audio"
+    },
+    {
+      "codec": "AAC",
+      "id": 2,
+      "properties": {
+        "audio_channels": 2,
+        "audio_sampling_frequency": 24000,
+        "codec_id": "A_AAC",
+        "codec_private_data": "131056e59d4800",
+        "codec_private_length": 7,
+        "default_duration": 42666666,
+        "default_track": false,
+        "enabled_track": true,
+        "forced_track": false,
+        "language": "eng",
+        "minimum_timestamp": 0,
+        "number": 3,
+        "track_name": "Director's Commentary",
+        "uid": 2242295442
+      },
+      "type": "audio"
+    },
+    {
+      "codec": "SubRip/SRT",
+      "id": 3,
+      "properties": {
+        "codec_id": "S_TEXT/UTF8",
+        "codec_private_length": 0,
+        "default_track": false,
+        "enabled_track": true,
+        "encoding": "UTF-8",
+        "forced_track": false,
+        "language": "eng",
+        "number": 4,
+        "text_subtitles": true,
+        "track_name": "English",
+        "uid": 899556229
+      },
+      "type": "subtitles"
+    },
+    {
+      "codec": "SubRip/SRT",
+      "id": 4,
+      "properties": {
+        "codec_id": "S_TEXT/UTF8",
+        "codec_private_length": 0,
+        "default_track": false,
+        "enabled_track": true,
+        "encoding": "UTF-8",
+        "forced_track": false,
+        "language": "eng",
+        "number": 5,
+        "text_subtitles": true,
+        "track_name": "Director's Commentary",
+        "uid": 1611988396
+      },
+      "type": "subtitles"
+    }
+  ],
+  "warnings": []
+}

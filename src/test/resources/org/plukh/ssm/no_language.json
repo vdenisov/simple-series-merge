@@ -1,0 +1,24 @@
+{
+  "tracks": [
+    {
+      "codec": "AAC",
+      "id": 2,
+      "properties": {
+        "audio_channels": 2,
+        "audio_sampling_frequency": 24000,
+        "codec_id": "A_AAC",
+        "codec_private_data": "131056e59d4800",
+        "codec_private_length": 7,
+        "default_duration": 42666666,
+        "default_track": false,
+        "enabled_track": true,
+        "forced_track": false,
+        "minimum_timestamp": 0,
+        "number": 3,
+        "track_name": "Director's Commentary",
+        "uid": 2242295442
+      },
+      "type": "audio"
+    }
+  ]
+}
